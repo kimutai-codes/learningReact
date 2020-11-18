@@ -1,0 +1,13 @@
+body {
+	width: 30%;
+	text-align: center;
+	position: relative;
+	/* display: flex; */
+	/* justify-content: center; */
+	margin: 0 auto;
+}
+
+#root {
+    background-color: aquamarine;
+    border-radius: 5px;
+}
